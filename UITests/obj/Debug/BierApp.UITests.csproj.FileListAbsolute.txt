@@ -1,0 +1,9 @@
+D:\ProjectAppDev\BierApp\UITests\bin\Debug\BierApp.UITests.dll
+D:\ProjectAppDev\BierApp\UITests\bin\Debug\BierApp.UITests.pdb
+D:\ProjectAppDev\BierApp\UITests\bin\Debug\nunit.framework.dll
+D:\ProjectAppDev\BierApp\UITests\bin\Debug\Xamarin.UITest.dll
+D:\ProjectAppDev\BierApp\UITests\bin\Debug\nunit.framework.xml
+D:\ProjectAppDev\BierApp\UITests\bin\Debug\Xamarin.UITest.xml
+D:\ProjectAppDev\BierApp\UITests\obj\Debug\BierApp.UITests.dll
+D:\ProjectAppDev\BierApp\UITests\obj\Debug\BierApp.UITests.pdb
+D:\ProjectAppDev\BierApp\UITests\obj\Debug\BierApp.UITests.csprojResolveAssemblyReference.cache

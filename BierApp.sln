@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BierApp", "BierApp\BierApp.csproj", "{397BACFE-5B0D-4ACA-ABA5-CEDA1A417C43}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BierApp.Droid", "Droid\BierApp.Droid.csproj", "{B7A803CB-9DE1-422D-AE90-51F58A4FA2DD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BierApp.UITests", "UITests\BierApp.UITests.csproj", "{C8C65408-4E3E-477D-8E9F-93C6F38F2F0D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{397BACFE-5B0D-4ACA-ABA5-CEDA1A417C43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{397BACFE-5B0D-4ACA-ABA5-CEDA1A417C43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{397BACFE-5B0D-4ACA-ABA5-CEDA1A417C43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{397BACFE-5B0D-4ACA-ABA5-CEDA1A417C43}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7A803CB-9DE1-422D-AE90-51F58A4FA2DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7A803CB-9DE1-422D-AE90-51F58A4FA2DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7A803CB-9DE1-422D-AE90-51F58A4FA2DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7A803CB-9DE1-422D-AE90-51F58A4FA2DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8C65408-4E3E-477D-8E9F-93C6F38F2F0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8C65408-4E3E-477D-8E9F-93C6F38F2F0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8C65408-4E3E-477D-8E9F-93C6F38F2F0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8C65408-4E3E-477D-8E9F-93C6F38F2F0D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

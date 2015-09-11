@@ -1,0 +1,10 @@
+D:\ProjectAppDev\BierApp\BierApp\bin\Debug\BierApp.dll
+D:\ProjectAppDev\BierApp\BierApp\bin\Debug\BierApp.pdb
+D:\ProjectAppDev\BierApp\BierApp\bin\Debug\Xamarin.Forms.Core.dll
+D:\ProjectAppDev\BierApp\BierApp\bin\Debug\Xamarin.Forms.Platform.dll
+D:\ProjectAppDev\BierApp\BierApp\bin\Debug\Xamarin.Forms.Xaml.dll
+D:\ProjectAppDev\BierApp\BierApp\bin\Debug\Xamarin.Forms.Core.xml
+D:\ProjectAppDev\BierApp\BierApp\bin\Debug\Xamarin.Forms.Xaml.xml
+D:\ProjectAppDev\BierApp\BierApp\obj\Debug\BierApp.dll
+D:\ProjectAppDev\BierApp\BierApp\obj\Debug\BierApp.pdb
+D:\ProjectAppDev\BierApp\BierApp\obj\Debug\BierApp.csprojResolveAssemblyReference.cache
